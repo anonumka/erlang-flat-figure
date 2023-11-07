@@ -1,11 +1,10 @@
-add circle 5 5 5 red 23-05-23 
-print 
-add circle 5 5 5 red 23-05-23 
-add rectangle 3 4 5 6 blue 23-05-23 
-add rectangle 1 0 9 4 blue 23-05-23 
-rem rectangle 
-add circle 1 2 3 red 23-05-23 
-add circle 5 6 7 gray 23-05-23 
-rem circle 5 6 7 
-rem * 
-print 
+add circle 5 5 5 red 23-05-23
+add circle 1 5 2 red 23-05-23
+add rectangle 3 4 5 6 blue 23-05-23
+add rectangle 1 0 9 4 blue 23-05-23
+rem rectangle
+add circle 1 2 3 red 23-05-23
+add circle 5 6 7 gray 23-05-23
+rem circle 5 6 7
+rem *
+print

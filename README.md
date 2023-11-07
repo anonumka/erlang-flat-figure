@@ -14,14 +14,16 @@ print                           -- print cur figures
 
 Example of input file located in root dir.
 
+> Careful! Very dirty code!
+
 ## TODO:
 
-- [ ] fix problem with printing to console
-- [ ] add specific shapes (circle, rectangle, triangle)
-- [ ] remove trash in outputing
+- [x] remove `\n` symbol in line if exist
+- [x] add specific shapes (circle, rectangle, triangle)
+- [x] remove trash in outputing
+- [ ] solve the container problem (may rethink the data storage structure)
 - [ ] add function `rem *figure* *color*`
 - [ ] add list allowed colors
 - [ ] add regex to input strings
 - [ ] structure project using best practices
 - [ ] use a linter for erlang
-- [ ] Comet Haley
